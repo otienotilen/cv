@@ -32,12 +32,12 @@ function About() {
               Being a diligent, hardworking and result oriented person, 
               I always work towards achieving best result on each project I lay my hands on.
               </p>
-              <div className="about__button d__flex align__items__center">
+              {/* <div className="about__button d__flex align__items__center">
                 <a href="#">
                   <button className="about btn pointer">Download Cv</button>
                 </a>
                 
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
